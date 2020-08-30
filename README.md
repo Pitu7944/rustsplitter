@@ -1,10 +1,8 @@
 # **Rust Splitter**
 ## Powered by :
-[![Python|Solid](https://i.imgur.com/VgBng7S.png)]()
+[![Python|Solid](https://i.imgur.com/VgBng7S.png)]()                            [![Download](https://i.imgur.com/KfimRIk.png)]()
 
 [![Build Status](https://i.imgur.com/nvYOf83.png)]()
-## Download :
-[![Build Status](https://i.imgur.com/XPEvBK2.png)]()
 # **Features!**
 
   - Automaticaly split ore evenly to furnances
