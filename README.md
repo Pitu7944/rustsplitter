@@ -15,6 +15,13 @@
 ## **Important:**
 - Works only with **1920x1080** resolutions
 - Works only with **slots shown in gifs below**
+
+### Installation
+
+- place the exe where you want
+
+- have fun
+
 ## **How to Use:**
 
 - run the exe
@@ -34,14 +41,6 @@
 [![img1](https://media2.giphy.com/media/kDHJekJ9GcyhKFv5kU/giphy.gif)]()
 
 [![img1](https://media3.giphy.com/media/ZCBycDcxdlfDLWztm7/giphy.gif)]()
-
-## Split evenly in inventory [F6]
-
-### Installation
-
-- place the exe where you want
-
-- have fun
 
 ### Todos
 
