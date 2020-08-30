@@ -3,7 +3,9 @@
 ## Powered by :
 [![Python|Solid](https://i.imgur.com/VgBng7S.png)]()
 
-[![Download](https://i.imgur.com/KfimRIk.png)](https://github.com/Pitu7944/rustsplitter/releases/download/v0.1/rust_splitter.exe)
+
+[![Discord](https://i.imgur.com/EaKywLS.png)](https://discord.gg/zPVuXCm)
+
 
 # **Features!**
 
