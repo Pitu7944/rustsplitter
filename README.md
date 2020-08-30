@@ -1,8 +1,6 @@
 # **Rust Splitter**
 ## Powered by :
-[![Python|Solid](https://i.imgur.com/VgBng7S.png)]()                            
-
-[![Build Status](https://i.imgur.com/nvYOf83.png)]()
+[![Python|Solid](https://i.imgur.com/VgBng7S.png)]()     [![Build Status](https://i.imgur.com/nvYOf83.png)]()                       
 
 [![Download](https://i.imgur.com/KfimRIk.png)](https://github.com/Pitu7944/rustsplitter/releases/download/v0.1/rust_splitter.exe)
 
