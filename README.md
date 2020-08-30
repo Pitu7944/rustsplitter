@@ -4,7 +4,7 @@
 
 [![Build Status](https://i.imgur.com/nvYOf83.png)]()
 
-[![Download](https://i.imgur.com/KfimRIk.png)]()
+[![Download](https://i.imgur.com/KfimRIk.png)](https://github.com/Pitu7944/rustsplitter/releases/download/v0.1/rust_splitter.exe)
 
 # **Features!**
 
