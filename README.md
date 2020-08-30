@@ -1,10 +1,9 @@
 # **Rust Splitter**
 [![Build Status](https://i.imgur.com/nvYOf83.png)]()
-## Powered by :
-[![Python|Solid](https://i.imgur.com/VgBng7S.png)]()
-
 
 [![Discord](https://i.imgur.com/EaKywLS.png)](https://discord.gg/zPVuXCm)
+## Powered by :
+[![Python|Solid](https://i.imgur.com/VgBng7S.png)]()
 
 
 # **Features!**
