@@ -9,9 +9,14 @@
   - Automaticaly split ore evenly to furnances
   
   - Automaticaly split ore evenly to inventory slots
-
+  
+## **DISCLAIMER:**
+**ONLY WORKS WITH 1920x1080 resolutions**
+**Works only with slots shown in gifs below**
 ## **How to Use:**
+
 - run the exe
+
 - press enter until you see this screen:
 
 [![img1](https://i.imgur.com/4DHPbyb.png)]()
