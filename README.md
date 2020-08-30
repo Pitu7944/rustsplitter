@@ -11,16 +11,16 @@
 ## **How to Use:**
 - run the exe
 - press enter until you see this screen:
-[![img1](https://i.imgur.com/4DHPbyb.png)]()\n
--- Split evenly in inventory [F6]\n
-[![img1](https://media3.giphy.com/media/Qw2eIo8CTtxQbPja86/giphy.gif)]()\n
-[![img1](https://media1.giphy.com/media/lTSEE8YD0xUHE5R6wm/giphy.gif)]()\n
--- Split evenly to Small Furnance [SHIFT + F6]\n
-[![img1](https://media2.giphy.com/media/kDHJekJ9GcyhKFv5kU/giphy.gif)]()\n
-[![img1](https://media3.giphy.com/media/ZCBycDcxdlfDLWztm7/giphy.gif)]()\n
-## Split evenly in inventory [F6]\n
-### Installation\n\n
-- place the exe where you want\n
+[![img1](https://i.imgur.com/4DHPbyb.png)]()
+-- Split evenly in inventory [F6]
+[![img1](https://media3.giphy.com/media/Qw2eIo8CTtxQbPja86/giphy.gif)]()
+[![img1](https://media1.giphy.com/media/lTSEE8YD0xUHE5R6wm/giphy.gif)]()
+-- Split evenly to Small Furnance [SHIFT + F6]
+[![img1](https://media2.giphy.com/media/kDHJekJ9GcyhKFv5kU/giphy.gif)]()
+[![img1](https://media3.giphy.com/media/ZCBycDcxdlfDLWztm7/giphy.gif)]()
+## Split evenly in inventory [F6]
+### Installation
+- place the exe where you want
 - have fun
 
 ### Todos
