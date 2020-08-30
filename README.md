@@ -3,16 +3,17 @@
 [![Python|Solid](https://i.imgur.com/VgBng7S.png)]()
 
 [![Build Status](https://i.imgur.com/nvYOf83.png)]()
-
+## Download :
+[![Build Status](https://i.imgur.com/XPEvBK2.png)]()
 # **Features!**
 
   - Automaticaly split ore evenly to furnances
   
   - Automaticaly split ore evenly to inventory slots
   
-## **DISCLAIMER:**
-**ONLY WORKS WITH 1920x1080 resolutions**
-**Works only with slots shown in gifs below**
+## **Important:**
+- Works only with **1920x1080** resolutions
+- Works only with **slots shown in gifs below**
 ## **How to Use:**
 
 - run the exe
