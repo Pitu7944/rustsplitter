@@ -56,5 +56,6 @@
 
 
 ## POST SCRIPTUM
-**by downloading my software you agree with the statements in this readme.md file!**
-**not reading this still means this applies to you**
+- **by downloading my software you agree with the statements in this readme.md file!**
+
+- **not reading this still means this applies to you**
