@@ -5,7 +5,7 @@
 ## Powered by :
 [![Python|Solid](https://i.imgur.com/VgBng7S.png)]()
 
-# **Features!**
+# **Disclaimer!**
 
  - **I'm not responsible to bans associated with the use of my program**
  - if you are not sure if this will get you banned, **make your research**, this is only my afternoon project so be respectfull and responsible!.
@@ -53,3 +53,8 @@
  - Add update checking feature
  
  - Fix long cli loading
+
+
+## POST SCRIPTUM
+**by downloading my software you agree with the statements in this readme.md file!**
+**not reading this still means this applies to you**
