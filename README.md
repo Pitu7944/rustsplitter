@@ -9,7 +9,8 @@
 
  - **I'm not responsible to bans associated with the use of my program**
  - if you are not sure if this will get you banned, **make your research**, this is only my afternoon project so be respectfull and responsible!.
-  
+ - this repo is for **educational use only**
+ 
 # **Features!**
 
   - Automaticaly split ore evenly to furnances
