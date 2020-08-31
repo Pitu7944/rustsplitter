@@ -13,7 +13,6 @@
 # **Features!**
 
   - Automaticaly split ore evenly to furnances
-  
   - Automaticaly split ore evenly to inventory slots
   
 ## **Important:**
@@ -23,13 +22,11 @@
 ### Installation
 
 - place the exe where you want
-
 - have fun
 
 ## **How to Use:**
 
 - run the exe
-
 - press enter until you see this screen:
 
 [![img1](https://i.imgur.com/4DHPbyb.png)]()
@@ -49,13 +46,10 @@
 ### Todos
 
  - Add support for Large Furnance
- 
  - Add update checking feature
- 
  - Fix long cli loading
 
 
 ## POST SCRIPTUM
 - **by downloading my software you agree with the statements in this readme.md file!**
-
 - **not reading this still means this applies to you**
